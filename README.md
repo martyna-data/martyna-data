@@ -1,27 +1,27 @@
-## Cześć. Jestem Martyna👋
+## Hi, I'm Martyna 👋
 
 <!--
 **martyna-data/martyna-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+🎓 Data Science student at AGH University of Science and Technology in Kraków  
+📊 Interested in data analysis, machine learning, and data visualization  
+🧠 Currently learning: Python • R • C/C++ • Jupyter  
+📈 You can find my project portfolio below!
 
-🎓 Studentka kierunku Data Science na AGH w Krakowie  
-📊 Interesuję się analizą danych, uczeniem maszynowym i wizualizacją  
-🧠 Uczę się: Python • R •  C/C++ • Jupyter  
-📈 Moje portfolio projektów znajdziesz poniżej!
-
-## 🔧 Technologie
-- Python, R, SQL
-- Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+## 🔧 Technologies
+- Python, R, SQL  
+- Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 - Jupyter Notebook
 
-## 🚀 Projekty
-🔹 Titanic Survival Analysis – predykcja przeżycia pasażerów Titanica  
-🔹 Analiza playlisty Spotify – wykresy, statystyki, trendy muzyczne  
-🔹 [więcej wkrótce...]
+## 🚀 Projects
+🔹 Titanic Survival Analysis – predicting passenger survival based on historical data  
+🔹 Spotify Playlist Analysis – visualizations, statistics, and listening trends  
+🔹 [More coming soon...]
 
-## 📫 Kontakt
+## 📫 Contact
 - Email: mkrol1305@gmail.com
 
 ---
 
-💡 Aktualnie rozwijam swoje portfolio – nowe projekty już wkrótce!
+💡 I'm currently expanding my portfolio – new projects coming soon!
