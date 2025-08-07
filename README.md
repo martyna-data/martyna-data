@@ -13,11 +13,15 @@
 - Python, R, SQL  
 - Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 - Jupyter Notebook
+  
 
 ## 🚀 Projects
 🔹 Titanic Survival Analysis – predicting passenger survival based on historical data  
 🔹 Spotify Playlist Analysis – visualizations, statistics, and listening trends  
+🔹 Matrix Inversion in C – computing the inverse of a square matrix with dynamic memory management
 🔹 [More coming soon...]
+
+
 
 ## 📫 Contact
 - Email: mkrol1305@gmail.com
